@@ -6,6 +6,7 @@ This GitHub repository showcases advanced data wrangling techniques through two 
 ## Notebooks Description
 - PA_wrangle.ipynb: Focuses on general data wrangling skills, demonstrating various techniques for cleaning and preparing data for analysis.
 - Titanic_Wrangling.ipynb: Offers a case study on the Titanic dataset, highlighting specific data wrangling tasks including handling missing values, feature engineering, and preparing data for machine learning models.
+- Accompanying Each are the corresponding HTML Files
 
 ## Skills Demonstrated
 - Data Cleaning: Handling missing values, outliers, and duplicates.
