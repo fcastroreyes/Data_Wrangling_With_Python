@@ -19,3 +19,9 @@ This GitHub repository showcases advanced data wrangling techniques through two 
 - Pandas for data manipulation
 - NumPy for numerical operations
 - Matplotlib and Seaborn for data visualization
+
+# Contributing
+- Interested in contributing? Fork the repository, commit your improvements, and submit a pull request.
+
+# License
+- This project is shared under the MIT License.
